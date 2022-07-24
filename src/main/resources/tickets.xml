@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tickets>
+    <ticket>
+        <eventId>100</eventId>
+        <userId>1</userId>
+        <category>STANDARD</category>
+        <place>100</place>
+    </ticket>
+    <ticket>
+        <eventId>101</eventId>
+        <userId>2</userId>
+        <category>PREMIUM</category>
+        <place>101</place>
+    </ticket>
+    <ticket>
+        <eventId>102</eventId>
+        <userId>3</userId>
+        <category>BAR</category>
+        <place>102</place>
+    </ticket>
+</tickets>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Spring MVC + Thymeleaf</title>
+</head>
+<body>
+<table border="1" style="width:300px">
+    <tr>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Date</td>
+    </tr>
+    <tr th:if="${events.empty}">
+        <td colspan="3"> Event not found</td>
+    </tr>
+    <tr th:each="event : ${events}">
+        <td><span th:text="${event.id}"></span></td>
+        <td><span th:text="${event.title}"></span></td>
+        <td><span th:text="${event.date}"></span></td>
+    </tr>
+</table>
+</body>
+</html>

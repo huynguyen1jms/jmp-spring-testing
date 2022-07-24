@@ -1,0 +1,23 @@
+
+i
+java:S1192)"NDefine a constant instead of duplicating this literal "user is empty" 3 times.(êñÝ¥ýÿÿÿÿ
+f	java:S116"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Â¯¢
+c
+java:S4488#"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ë«Ž·ûÿÿÿÿ
+c
+java:S44881"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(æ¼¾ýøÿÿÿÿ
+c
+java:S4488@"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ê¼Üáúÿÿÿÿ
+[
+java:S4684O"@Replace this persistent entity with a simple POJO or DTO object.(¾ «ôüÿÿÿÿ
+e
+java:S4488N"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(µ›«…ûÿÿÿÿ
+Q	java:S125P"<This block of commented-out lines of code should be removed.(ÿäŽÏ
+V
+java:S4684Y"@Replace this persistent entity with a simple POJO or DTO object.(ƒÂÝ
+c
+java:S4488X"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(§éÑÿÿÿÿÿ
+[
+java:S4684_"@Replace this persistent entity with a simple POJO or DTO object.(žÑ…ÿÿÿÿÿÿ
+i
+java:S4488^"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(Ùê¤Îûÿÿÿÿ

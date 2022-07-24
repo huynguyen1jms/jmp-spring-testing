@@ -1,0 +1,3 @@
+unit\TickerServiceTest$TickerServiceTestConfig.class
+unit\TickerServiceTest.class
+integration\IntegrationTestJms.class

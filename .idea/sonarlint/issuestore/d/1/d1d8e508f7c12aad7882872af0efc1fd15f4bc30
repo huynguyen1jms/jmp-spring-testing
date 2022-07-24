@@ -1,0 +1,12 @@
+
+V
+java:S1854";Remove this useless assignment to local variable "context".(ĞóöÀşÿÿÿÿ
+G
+java:S1481",Remove this unused "context" local variable.(ĞóöÀşÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(«ÎË–
+O
+java:S1128"9Remove this unused import 'com.jmp.springmvc.model.User'.(—½¬·
+[
+java:S1128	"ERemove this unused import 'org.springframework.jms.core.JmsTemplate'.(Æïø„
+@
+java:S1068"*Remove this unused "logger" private field.(õ¬³‚

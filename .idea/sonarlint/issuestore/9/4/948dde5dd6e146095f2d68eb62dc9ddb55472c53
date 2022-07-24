@@ -1,0 +1,10 @@
+
+f	java:S116"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Â¯¢
+u
+java:S4144>"_Update this method so that its implementation is not identical to "getBookedByUser" on line 48.(âÈÕâ
+`
+java:S4488 "JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(‚¿Â
+c
+java:S4488/"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(œÅø¹ùÿÿÿÿ
+c
+java:S4488="HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Æ«ĞËøÿÿÿÿ

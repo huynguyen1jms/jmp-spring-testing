@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Spring MVC + Thymeleaf</title>
+</head>
+<body>
+<table border="1" style="width:300px">
+    <tr>
+        <td>Id</td>
+        <td>Event Id</td>
+        <td>User Id</td>
+        <td>Category</td>
+        <td>Place</td>
+    </tr>
+    <tr th:if="${tickets.empty}">
+        <td colspan="5"> Ticket not found</td>
+    </tr>
+    <tr th:each="ticket : ${tickets}">
+        <td><span th:text="${ticket.id}"></span></td>
+        <td><span th:text="${ticket.eventId}"></span></td>
+        <td><span th:text="${ticket.userId}"></span></td>
+        <td><span th:text="${ticket.category}"></span></td>
+        <td><span th:text="${ticket.place}"></span></td>
+    </tr>
+</table>
+</body>
+</html>
